@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\bin\Debug\net6.0\OutputValues.exe
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\bin\Debug\net6.0\OutputValues.deps.json
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\bin\Debug\net6.0\OutputValues.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\bin\Debug\net6.0\OutputValues.dll
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\bin\Debug\net6.0\OutputValues.pdb
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.dll
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\refint\OutputValues.dll
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.pdb
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\OutputValues.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\OutputValues\OutputValues\obj\Debug\net6.0\ref\OutputValues.dll

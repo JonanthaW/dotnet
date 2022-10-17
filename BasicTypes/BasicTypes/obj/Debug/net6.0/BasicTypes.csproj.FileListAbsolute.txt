@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\bin\Debug\net6.0\BasicTypes.exe
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\bin\Debug\net6.0\BasicTypes.deps.json
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\bin\Debug\net6.0\BasicTypes.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\bin\Debug\net6.0\BasicTypes.dll
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\bin\Debug\net6.0\BasicTypes.pdb
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.dll
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\refint\BasicTypes.dll
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.pdb
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\BasicTypes.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\BasicTypes\BasicTypes\obj\Debug\net6.0\ref\BasicTypes.dll

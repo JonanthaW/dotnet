@@ -1,0 +1,35 @@
+﻿using System;
+
+namespace Atribution {
+    public class Program {
+        static void Main(string[] args) {
+
+            int a = 10;
+            Console.WriteLine(a);
+
+            a += 2;
+            Console.WriteLine(a);
+            a -= 2;
+            Console.WriteLine(a);
+            a /= 2;
+            Console.WriteLine(a);
+            a *= 2;
+            Console.WriteLine(a);
+            a %= 3;
+            Console.WriteLine(a);
+
+            string s = "ABC";
+            s += "DEF";
+            Console.WriteLine(s);
+
+            int b = 10;
+            b++;
+            Console.WriteLine(b);
+
+            int c = 10;
+            c--;
+            Console.WriteLine(c);
+           
+        }
+    }
+}

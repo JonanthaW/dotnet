@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\bin\Debug\net6.0\Atribution.exe
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\bin\Debug\net6.0\Atribution.deps.json
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\bin\Debug\net6.0\Atribution.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\bin\Debug\net6.0\Atribution.dll
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\bin\Debug\net6.0\Atribution.pdb
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.dll
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\refint\Atribution.dll
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.pdb
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\Atribution.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\Atribution\Atribution\obj\Debug\net6.0\ref\Atribution.dll

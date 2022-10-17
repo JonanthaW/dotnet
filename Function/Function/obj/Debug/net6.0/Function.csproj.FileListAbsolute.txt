@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\Function\Function\bin\Debug\net6.0\Function.exe
+C:\Users\jonan\Desktop\dotnet\Function\Function\bin\Debug\net6.0\Function.deps.json
+C:\Users\jonan\Desktop\dotnet\Function\Function\bin\Debug\net6.0\Function.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\Function\Function\bin\Debug\net6.0\Function.dll
+C:\Users\jonan\Desktop\dotnet\Function\Function\bin\Debug\net6.0\Function.pdb
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.dll
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\refint\Function.dll
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.pdb
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\Function.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\Function\Function\obj\Debug\net6.0\ref\Function.dll
