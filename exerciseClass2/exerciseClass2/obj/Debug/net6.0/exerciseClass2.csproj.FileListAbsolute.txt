@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\exerciseClass2.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\exerciseClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\exerciseClass2.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\exerciseClass2.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\exerciseClass2.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\bin\Debug\net6.0\ExerciseClass2.exe
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\bin\Debug\net6.0\ExerciseClass2.deps.json
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\bin\Debug\net6.0\ExerciseClass2.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\bin\Debug\net6.0\ExerciseClass2.dll
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\bin\Debug\net6.0\ExerciseClass2.pdb
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\ExerciseClass2.dll
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\refint\ExerciseClass2.dll
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\ExerciseClass2.pdb
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\ExerciseClass2.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\exerciseClass2\exerciseClass2\obj\Debug\net6.0\ref\ExerciseClass2.dll

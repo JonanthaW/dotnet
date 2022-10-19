@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\bin\Debug\net6.0\ExerciseClass7.exe
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\bin\Debug\net6.0\ExerciseClass7.deps.json
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\bin\Debug\net6.0\ExerciseClass7.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\bin\Debug\net6.0\ExerciseClass7.dll
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\bin\Debug\net6.0\ExerciseClass7.pdb
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.dll
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\refint\ExerciseClass7.dll
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.pdb
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ExerciseClass7.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass06\ExerciseClass06\obj\Debug\net6.0\ref\ExerciseClass7.dll

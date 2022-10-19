@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\bin\Debug\net6.0\beeCrowd.exe
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\bin\Debug\net6.0\beeCrowd.deps.json
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\bin\Debug\net6.0\beeCrowd.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\bin\Debug\net6.0\beeCrowd.dll
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\bin\Debug\net6.0\beeCrowd.pdb
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.dll
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\refint\beeCrowd.dll
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.pdb
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\beeCrowd.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\beeCrowd\beeCrowd\obj\Debug\net6.0\ref\beeCrowd.dll
