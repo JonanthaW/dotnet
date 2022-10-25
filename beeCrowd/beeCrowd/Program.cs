@@ -1,12 +1,15 @@
 ﻿using System;
 class URI {
     static void Main(string[] args) {
-        int[] Impares;
         int X = int.Parse(Console.ReadLine());
-        int Y = int.Parse(Console.ReadLine());
-
-        if (X > Y) {
-            
-        }
+        int Primeiro = 1;
+        int Segundo = 2;
+        int Terceiro = 3;
+        for (int i = 0; i < X; i++) {
+            Console.WriteLine($"{Primeiro} {Segundo} {Terceiro} PUM");
+            Primeiro += 4;
+            Segundo += 4;
+            Terceiro += 4;
+        } 
     }
-}
+ }

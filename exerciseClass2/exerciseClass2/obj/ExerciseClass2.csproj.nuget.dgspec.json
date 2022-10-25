@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonan\\Desktop\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj": {}
+    "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonan\\Desktop\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj": {
+    "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonan\\Desktop\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj",
+        "projectUniqueName": "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj",
         "projectName": "ExerciseClass2",
-        "projectPath": "C:\\Users\\jonan\\Desktop\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj",
+        "projectPath": "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\exerciseClass2\\exerciseClass2\\ExerciseClass2.csproj",
         "packagesPath": "C:\\Users\\jonan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonan\\Desktop\\dotnet\\exerciseClass2\\exerciseClass2\\obj\\",
+        "outputPath": "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\exerciseClass2\\exerciseClass2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

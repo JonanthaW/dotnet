@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonan\\Desktop\\dotnet\\ExerciseClass04\\ExerciseClass04\\ExerciseClass4.csproj": {}
+    "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\ExerciseClass4\\ExerciseClass04\\ExerciseClass4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonan\\Desktop\\dotnet\\ExerciseClass04\\ExerciseClass04\\ExerciseClass4.csproj": {
+    "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\ExerciseClass4\\ExerciseClass04\\ExerciseClass4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonan\\Desktop\\dotnet\\ExerciseClass04\\ExerciseClass04\\ExerciseClass4.csproj",
+        "projectUniqueName": "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\ExerciseClass4\\ExerciseClass04\\ExerciseClass4.csproj",
         "projectName": "ExerciseClass4",
-        "projectPath": "C:\\Users\\jonan\\Desktop\\dotnet\\ExerciseClass04\\ExerciseClass04\\ExerciseClass4.csproj",
+        "projectPath": "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\ExerciseClass4\\ExerciseClass04\\ExerciseClass4.csproj",
         "packagesPath": "C:\\Users\\jonan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonan\\Desktop\\dotnet\\ExerciseClass04\\ExerciseClass04\\obj\\",
+        "outputPath": "C:\\Users\\jonan\\Desktop\\Projects\\dotnet\\ExerciseClass4\\ExerciseClass04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
