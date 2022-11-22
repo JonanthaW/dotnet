@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\bin\Debug\net6.0\ParamsModifier.exe
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\bin\Debug\net6.0\ParamsModifier.deps.json
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\bin\Debug\net6.0\ParamsModifier.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\bin\Debug\net6.0\ParamsModifier.dll
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\bin\Debug\net6.0\ParamsModifier.pdb
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.dll
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\refint\ParamsModifier.dll
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.pdb
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ParamsModifier.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\ParamsModifier\ParamsModifier\obj\Debug\net6.0\ref\ParamsModifier.dll

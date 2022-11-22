@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\bin\Debug\net6.0\ExerciseClass9.exe
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\bin\Debug\net6.0\ExerciseClass9.deps.json
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\bin\Debug\net6.0\ExerciseClass9.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\bin\Debug\net6.0\ExerciseClass9.dll
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\bin\Debug\net6.0\ExerciseClass9.pdb
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.dll
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\refint\ExerciseClass9.dll
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.pdb
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ExerciseClass9.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\ExerciseClass9\ExerciseClass9\obj\Debug\net6.0\ref\ExerciseClass9.dll

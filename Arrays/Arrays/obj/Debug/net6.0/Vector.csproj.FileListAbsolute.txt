@@ -1,0 +1,15 @@
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\bin\Debug\net6.0\Vector.exe
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\bin\Debug\net6.0\Vector.deps.json
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\bin\Debug\net6.0\Vector.runtimeconfig.json
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\bin\Debug\net6.0\Vector.dll
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\bin\Debug\net6.0\Vector.pdb
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.csproj.AssemblyReference.cache
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.AssemblyInfoInputs.cache
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.AssemblyInfo.cs
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.dll
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\refint\Vector.dll
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.pdb
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\Vector.genruntimeconfig.cache
+C:\Users\jonan\Desktop\dotnet\Arrays\Arrays\obj\Debug\net6.0\ref\Vector.dll
